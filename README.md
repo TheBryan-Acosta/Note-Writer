@@ -13,7 +13,11 @@ This application is a professional note writer, where the user may upload a note
 
 created with express and deployed on heroku, the backend was made to handle GET, POST, and DELETE requests to link with the front end. notes have unique IDs.
 
-## **Images**
+## **Example**
+
+
+https://user-images.githubusercontent.com/82281061/148676540-abf012c8-76ff-4334-b9be-87c7247d185d.mp4
+
 
 ## **Installation**
 
