@@ -1,6 +1,6 @@
 # Note-Writer
 
-heroku link: https://lit-spire-48626.herokuapp.com/
+heroku link: https://note-writer-brydev.herokuapp.com/notes
 github repo: https://github.com/TheBryan-Acosta/Note-Writer
 
 ## **Description**
